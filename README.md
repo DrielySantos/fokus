@@ -20,4 +20,4 @@ Esse projeto é inspirado na técnica Pomodoro, que visa a concentração em tar
 
 ## 💻 Link do projeto
 
-Aqui você pode [acessar o Fokus](https://) !!
+### Aqui você pode [acessar o Fokus](https://fokus-mu-nine.vercel.app/) 😊
